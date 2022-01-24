@@ -14,4 +14,5 @@ There are more messages to be added throughout my journey as a web developer!
 
 I use an array to store my messages in then I write a function called 'quote generator' and it returns a random quote.
 >Currently this is only in javascript but as I purse my web developer journey I will be making this a full functional website for anyone to use!
+>
 >![codegif](https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47jj171l3w6yqc1kd6dlgigkyw76l87uzapkrk70np&rid=giphy.gif&ct=g)
